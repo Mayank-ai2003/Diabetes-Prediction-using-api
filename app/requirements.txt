@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+onnxruntime
+numpy
+pydantic
+scikit-learn
+xgboost
+skl2onnx
